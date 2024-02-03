@@ -52,7 +52,7 @@ The class arrayInt contains the methods:
 
 This chapter is about the methods' syntax; if you don't know how to call a static method in a library, this can be done with:
 
-# <desired class name>.<desired method name>(<arguments>);
+<desired class name>.<desired method name>(<arguments>);
 
 Example:
 
