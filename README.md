@@ -1,4 +1,4 @@
-Welcome to the Leolib's WIKI! [Current Version: 0.7.4]
+Welcome to the Leolib's WIKI! [Current Version: 0.8]
 
 If you're seeing this document, it seems that the WIKI.txt file has been deprecated from v0.3.1. Please download the desired release's JAVADOC.zip file from the RELEASES tab.
 
