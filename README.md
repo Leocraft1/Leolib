@@ -9,4 +9,4 @@ From then you can navigate into the documentation by clicking each package's inf
 
 No Copyright, feel free to use this in your project, from the smallest to the biggest and even make mods.
 
-Leo_craft1, 2023-2024
+Leo_craft1, 2023-2025
